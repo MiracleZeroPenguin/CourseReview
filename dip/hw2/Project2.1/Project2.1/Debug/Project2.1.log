@@ -1,0 +1,18 @@
+﻿  fundation.c
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\fundation.c(70): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\fundation.c(88): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\fundation.c(161): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\fundation.c(162): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\fundation.c(163): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\fundation.c(177): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\fundation.c(178): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\fundation.c(179): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  main.c
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\main.c(15): warning C4101: “fp_temp”: 未引用的局部变量
+  operations.c
+c:\users\ljy28\desktop\学业\dip code\3180103570卢佳盈hw2\project2.1\project2.1\operations.c(48): warning C4244: “函数”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  LINK : 没有找到 C:\Users\ljy28\Desktop\学业\dip code\3180103570卢佳盈hw2\Project2.1\Debug\Project2.1.exe 或上一个增量链接没有生成它；正在执行完全链接
+  Project2.1.vcxproj -> C:\Users\ljy28\Desktop\学业\dip code\3180103570卢佳盈hw2\Project2.1\Debug\Project2.1.exe

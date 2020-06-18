@@ -1,0 +1,19 @@
+﻿  main.c
+c:\users\ljy28\source\repos\create\create\main.c(108): warning C4566: 由通用字符名称“\uFF1B”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\source\repos\create\create\main.c(108): warning C4566: 由通用字符名称“\u2032”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\source\repos\create\create\main.c(108): warning C4566: 由通用字符名称“\u2312”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\source\repos\create\create\main.c(116): warning C4566: 由通用字符名称“\uFF1B”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\source\repos\create\create\main.c(116): warning C4566: 由通用字符名称“\u2032”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\source\repos\create\create\main.c(116): warning C4566: 由通用字符名称“\u2312”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\source\repos\create\create\main.c(106): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\ljy28\source\repos\create\create\main.c(184): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ljy28\source\repos\create\create\main.c(185): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ljy28\source\repos\create\create\main.c(205): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\source\repos\create\create\main.c(222): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ljy28\source\repos\create\create\main.c(223): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ljy28\source\repos\create\create\main.c(243): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\source\repos\create\create\main.c(260): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ljy28\source\repos\create\create\main.c(261): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\ljy28\source\repos\create\create\main.c(281): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+  create.vcxproj -> C:\Users\ljy28\source\repos\create\Debug\create.exe

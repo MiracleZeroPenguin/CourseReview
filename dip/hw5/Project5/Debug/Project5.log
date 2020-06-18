@@ -1,0 +1,26 @@
+﻿  main.c
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(29): warning C4101: “file_temp”: 未引用的局部变量
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(56): warning C4566: 由通用字符名称“\uFF1B”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(56): warning C4566: 由通用字符名称“\u2032”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(56): warning C4566: 由通用字符名称“\u2312”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(64): warning C4566: 由通用字符名称“\uFF1B”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(64): warning C4566: 由通用字符名称“\u2032”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(64): warning C4566: 由通用字符名称“\u2312”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(54): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(92): warning C4566: 由通用字符名称“\uFF1B”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(92): warning C4566: 由通用字符名称“\u2032”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(92): warning C4566: 由通用字符名称“\u2312”表示的字符不能在当前代码页(1252)中表示出来
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(90): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(137): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(138): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(139): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(148): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(149): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(150): warning C4244: “=”: 从“double”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(223): warning C4305: “=”: 从“double”到“float”截断
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(239): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(240): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+c:\users\ljy28\desktop\学业\dip code\project5\project5\main.c(241): warning C4244: “=”: 从“float”转换到“unsigned char”，可能丢失数据
+  Project5.vcxproj -> C:\Users\ljy28\Desktop\学业\dip code\Project5\Debug\Project5.exe
