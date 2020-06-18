@@ -53,7 +53,7 @@
   | prefix前序  | $$-+a*bc/de$$ |
   | postfix后序 | $abc*+de/-$   |
 
-* ![image-20200611211736746](C:\Users\ljy28\Desktop\学业\大二下\ds\review\DataStructure 笔记.assets\image-20200611211736746.png)
+* ![image-20200611211736746](DataStructure 笔记.assets\image-20200611211736746.png)
 
 * 尾递归一定能变成循环
 
@@ -121,15 +121,15 @@
 
 ## chap05 Priority Queues
 
-![image-20200611232930754](C:\Users\ljy28\Desktop\学业\大二下\ds\review\DataStructure 笔记.assets\image-20200611232930754.png)
+![image-20200611232930754](DataStructure 笔记.assets\image-20200611232930754.png)
 
 * 完全二叉树高为$h$, 节点数$2^h$到$2^{h+1}-1$
 
 * $h=\lfloor \log N\rfloor$
 
-  ![image-20200611233649552](C:\Users\ljy28\Desktop\学业\大二下\ds\review\DataStructure 笔记.assets\image-20200611233649552.png)
+  ![image-20200611233649552](DataStructure 笔记.assets\image-20200611233649552.png)
 
-  ![image-20200611234152433](C:\Users\ljy28\Desktop\学业\大二下\ds\review\DataStructure 笔记.assets\image-20200611234152433.png)
+  ![image-20200611234152433](DataStructure 笔记.assets\image-20200611234152433.png)
 
 * 最小堆/最大堆排序
 
